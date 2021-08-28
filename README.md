@@ -6,7 +6,6 @@
 - 🥅 2021 Goals: Contribute more to projects on humanoid robots
 - ✈️ I love to travel. A LOT!!
 
-## <br />
 
 ## Connect with me:
 

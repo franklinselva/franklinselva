@@ -24,13 +24,12 @@
 
 ## <br />
 
-### Most Used Languages
+### Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinselva&langs_count=5&exclude_repo=robot-dashboard-design-old,meeting-bot-api&hide_title=true)
 
-## <br />
 
-### Franklin Selva's GitHub Stats
+### Franklin Selva's GitHub Stats:
 
 ![Franklin Selva's github stats](https://github-readme-stats.vercel.app/api?username=franklinselva&show_icons=true&count_private=true&include_all_commits=true&hide=,stars&hide_title=true)
 

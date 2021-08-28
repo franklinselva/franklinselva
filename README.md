@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently learning everything on humanoid robots and its intelligence
 - 🥅 2021 Goals: Contribute more to projects on humanoid robots
-- ⚡ I love to travel. A LOT!!
+- ✈️ I love to travel. A LOT!!
 
----
+## <br />
 
 ## Connect with me:
 
@@ -42,4 +42,5 @@
 [twitter]: https://twitter.com/franklin_selva
 [instagram]: https://www.instagram.com/franklin_selva/?hl=en
 [linkedin]: https://www.linkedin.com/in/franklin-selva/
+
 # franklinselva

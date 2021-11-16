@@ -8,8 +8,9 @@
 
 ### Good at:
 - Humanoid Robots
-- Robotics
+- Mobile robotics and Arm manipulators
 - ROS1 & ROS2
+- AI planning
 - Computer Vision
 - Reinforcement Learning
 

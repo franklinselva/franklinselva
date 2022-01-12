@@ -3,7 +3,7 @@
 ### I'm a Developer, Researcher and Freelancer!!
 
 - 🔭 I’m currently learning everything on humanoid robots and its intelligence
-- 🥅 2022 Goals: Start major contributions to humanoids
+- 🥅 2022 Goals: Start contributions to humanoids
 - ✈️ I love to travel. A LOT!!
 
 ### Good at:

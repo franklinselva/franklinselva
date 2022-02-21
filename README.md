@@ -7,8 +7,8 @@
 - ✈️ I love to travel. A LOT!!
 
 ### Good at:
-- Humanoid Robots
-- Mobile robotics and Arm manipulators
+- Humanoids Robot Control
+- Mobile robotics and applications
 - ROS1 & ROS2
 - AI planning
 - Computer Vision

@@ -1,17 +1,12 @@
 ### Hi there, I'm Selvakumar - aka **franklin_selva** 👋
 
-### I'm a Developer, Researcher and Freelancer!!
+### I'm a ROS Developer and Freelancer!!
 
-- 🔭 I’m currently learning everything on humanoid robots and its intelligence
-- 🥅 2022 Goals: Start contributions to humanoids
-- ✈️ I love to travel. A LOT!!
-
-### Good at:
-- Humanoids Robot Control
+### Interested in:
+- Humanoids Robots
 - Mobile robotics and applications
-- ROS1 & ROS2
+- ROS2
 - AI planning
-- Computer Vision
 - Reinforcement Learning
 
 ### Connect with me:
@@ -29,6 +24,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 
 ## <br />
 

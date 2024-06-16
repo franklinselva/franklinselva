@@ -13,7 +13,7 @@
 
 ### Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinselva&langs_count=5&exclude_repo=robot-dashboard-design-old,meeting-bot-api&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinselva&langs_count=10&exclude_repo=robot-dashboard-design-old,meeting-bot-api,time-series-transformer,nasa-harvest,master-bibliography-report-template&hide_title=true)
 
 
 ### Franklin Selva's GitHub Stats:
